@@ -6,7 +6,6 @@ Este projeto é um site de filmes desenvolvido em Java para a web. Ele permite a
 
 ## Funcionalidades
 
-- **Pesquisa de Filmes**: Os usuários podem buscar filmes pelo título.
 - **Filtragem por Gênero**: Os usuários podem filtrar filmes com base em diferentes gêneros (Ação, Comédia, Drama, etc.).
 - **Filtragem por Ano de Lançamento**: Permite a filtragem de filmes por ano de lançamento.
 - **Classificação por Avaliação**: Os filmes podem ser classificados pela avaliação dos usuários.
